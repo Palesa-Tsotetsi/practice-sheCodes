@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+    color: rgb(203, 203, 236);
+}
+button{
+    padding: 10px;
+    color: blueviolet;
+}
